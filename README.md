@@ -1,4 +1,5 @@
-<h1 align="center">Augusto Bolzan Profile</h1>
+<h1 align="center"><img src="https://github.com/KrAkeN806/profile-svg/blob/main/profile-name-github.svg"/></h1>
+
 <div>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=KrAkeN806&show_icons=true&theme=tokyonight" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrAkeN806&layout=compact)](https://github.com/anuraghazra/github-readme-stats"/>
